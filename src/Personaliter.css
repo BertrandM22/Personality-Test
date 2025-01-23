@@ -1,0 +1,108 @@
+.zero{
+    /* background-color: #a88b8b2e; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    margin: 10px 10% 25px 10%  ;
+    
+   
+}
+p{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h2Test{
+  display: flex;
+  justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 25px; 
+    color: rgba(0, 0, 255, 0.61);
+    text-shadow: 1px 2px 5px #302f2f5b;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 4px;
+}
+.globalAllResult{
+  margin: 10px 20% 25px 20% ;
+  
+}
+.globalAllResult h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #2f2424;
+  font-size: 18px;
+}
+.globalAll button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+      margin: 25px auto; 
+      background-color: #ffffff; 
+      color: rgb(35, 34, 34);
+      font-size: 18px;
+      font-weight: 600;
+      padding: 4px;
+      
+      border-radius: 8px;
+      cursor: pointer;
+}
+.questionAll{
+  margin: 10px 20% 25px 20% ;
+  
+  border: 2px solid black;
+  box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.295);
+  background:url(banban.jpg)
+  
+}
+.question {
+    margin-top: 6%;
+    padding: 4px 4%;
+    border: 4px solid rgba(0, 51, 145, 0.517);
+    box-shadow: 2px 2px 1px#555;
+
+    
+}
+
+
+form  {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+
+  form label {
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 16px;
+    color: #555;
+  }
+  .hidden{
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease, visibility 0.5s ease;}
+  
+  .noneButton a{
+    text-decoration: none;
+    color: #0e0e0fb8;
+    
+  }
+  .noneButton{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+      margin: 25px auto; 
+      background-color: #f0f3f54e; 
+      color: rgb(35, 34, 34);
+      font-size: 18px;
+      font-weight: 600;
+      padding: 4px;
+      
+      border-radius: 8px;
+      cursor: pointer;  
+  }
+
+  .noneButton:hover{
+    border-color: #cc0000 #0044cc #49ff01 #f6ff00;
+    border-radius: 15px;
+    background-color: rgb(240, 240, 240);
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.582); 
+  }

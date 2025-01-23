@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+
+
+
+
+.hero{box-shadow: 2px 2px 4px rgba(14, 1, 1, 1.935);
+  text-shadow: 2px 2px 4px rgba(31, 14, 14, 0.545);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    max-width: 95%;   
+    background: url(banban.jpg) no-repeat center center;
+    position: relative;
+    right: -2.5%;
+    margin-top: 1.5%;
+    background-size: 110% auto;
+}
+.logo img{
+    display: flex;
+    width:  100px;
+    height: auto;
+    justify-content:flex-start;
+}
+
+
+.menu{
+    display: flex;
+    gap: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu span {
+     
+    color: rgb(8, 8, 127);
+    transition: 500ms;
+  }
+  .menu span:hover{
+   color:  rgba(255, 94, 77, 1);
+  
+   padding: 4px;
+  }
+
+  
+  .menu span {
+    cursor: pointer; 
+     
+  }
+
+ @media(max-width: 415px){
+.logo{ display: none;}
+ }
