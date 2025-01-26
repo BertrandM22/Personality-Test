@@ -30,7 +30,7 @@ Ce projet m'a permis de mieux comprendre la structure des composants, la gestion
 J'aimerais, à l'avenir, intégrer une API de test de personnalité plus complexe (si possible) pour enrichir l'expérience utilisateur et offrir des résultats plus variés et précis.
 
 ## Lien : 
-[ICI](personality-test-zhvq.vercel.app)
+[ICI]([personality-test-zhvq.vercel.app](https://personality-test-git-master-maximes-projects-8b64083f.vercel.app/))
 
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
