@@ -113,7 +113,7 @@ const PersonalityTest = (backHome) => {
           <h2>Résultats :</h2>
           <p>Votre score est : {result}</p>
           <p>Interprétation : Votre score total est de {result}. {getResultMessage()}</p>
-          <button className='noneButton' ><a href="/">Page d'acceuil</a></button>
+          <button className='noneButton' ><a href="https://personality-test-git-master-maximes-projects-8b64083f.vercel.app/">Page d'acceuil</a></button>
         </div>
       )}
     </div>
