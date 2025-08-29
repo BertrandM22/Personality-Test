@@ -2,7 +2,7 @@
  ![preview](assets/preview.png)
 
   ![preview](assets/preview1.png)
-## ✏ Description
+##  Description
 Ce projet est mon deuxième projet en React, où j'ai pu approfondir ma compréhension de React et de ses possibilités, notamment en ce qui concerne les composants et la gestion de la logique. J'ai entrepris ce projet de manière autonome pour explorer davantage les composants React et la manière de structurer une application en simulant un JSON dans un fichier JSX. Le projet consiste en un test de personnalité simple qui fournit un résultat en fonction des réponses choisies par l'utilisateur. Bien que j'aie envisagé d'intégrer une API de test de personnalité, la plupart de ces API étant payantes, j'ai opté pour une solution maison.
 
 ##  Technologies utilisées
