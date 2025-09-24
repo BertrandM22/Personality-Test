@@ -32,7 +32,7 @@ J'aimerais, à l'avenir, intégrer une API de test de personnalité plus complex
 ## Lien : 
 [ICI](https://personality-test-git-master-maximes-projects-8b64083f.vercel.app/)
 
-## 🛠️ Installation & Utilisation
+##  Installation & Utilisation
 1. Cloner le dépôt :
 
 ```
